@@ -10,7 +10,7 @@
 
 ### About Project
 
-Ecolive is an application that can help classify waste and provide predictions about future air conditions using machine learning technology. We hope to inspire people to care more about the environment and take action to minimize the adverse effects caused by environmental pollution.
+Ecolive is a website that can help classify waste and provide predictions about future air conditions using machine learning technology. We hope to inspire people to care more about the environment and take action to minimize the adverse effects caused by environmental pollution.
 
 ### Feature
 
@@ -33,6 +33,8 @@ Ecolive is an application that can help classify waste and provide predictions a
 #### Machine Learning
 
 - Tensorflow
+- Sklearn
+- Flask
 
 #### Cloud Computing
 
