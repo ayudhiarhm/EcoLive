@@ -1,0 +1,41 @@
+*{
+ font-family: "Poppins",  fantasy;    
+}
+
+.hero{
+    background-image: url('../asset/img/welcome.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 200px;
+    opacity: 0.8;
+}
+
+.hero h1{
+    font-size: 80px;
+    margin-top: 0cm;
+}
+
+.hero h2{
+    font-size: 36px;
+}
+
+.btn btn-primary {
+    --bs-btn-font-weight: 600;
+    --bs-btn-color: var(--bs-white);
+    --bs-btn-bg: var(--bd-violet-bg);
+    --bs-btn-border-color: var(--bd-violet-bg);
+    --bs-btn-hover-color: var(--bs-white);
+    --bs-btn-hover-bg: #{shade-color($bd-violet, 10%)};
+    --bs-btn-hover-border-color: #{shade-color($bd-violet, 10%)};
+    --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
+    --bs-btn-active-color: var(--bs-btn-hover-color);
+    --bs-btn-active-bg: #{shade-color($bd-violet, 20%)};
+    --bs-btn-active-border-color: #{shade-color($bd-violet, 20%)};
+  }
+
+.judul{
+    font-size: 70px;
+    margin-bottom: auto;
+    font-weight: bolder;
+}
