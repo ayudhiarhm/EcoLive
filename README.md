@@ -17,6 +17,9 @@ Ecolive is a website that can help classify waste and provide predictions about 
 - Image Recognition
 - Visualization
 
+### Demo
+https://clientreact-dot-eco-live-389407.et.r.appspot.com/
+
 ### Our Member
 
 |           Name           | Bangkit ID |        Role        |                       Github                        |
