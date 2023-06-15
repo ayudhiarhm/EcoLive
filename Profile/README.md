@@ -46,3 +46,5 @@ Ecolive is a website that can help classify waste and provide predictions about 
 - [Front-End Website](https://github.com/ayudhiarhm/EcoLive/tree/main/Front-End%20Website)
 
 ### License
+
+Distributed under the MIT License. See `LICENSE` for more information.
