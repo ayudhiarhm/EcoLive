@@ -44,6 +44,11 @@ https://clientreact-dot-eco-live-389407.et.r.appspot.com/
 - Compute Engine
 - Node JS
 
+#### Website
+
+- React JS
+- Node JS
+
 ### Other Repositories
 
 - [Front-End Website](https://github.com/ayudhiarhm/EcoLive/tree/main/Front-End%20Website)
