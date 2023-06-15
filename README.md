@@ -1,7 +1,7 @@
 <p align="center">
 <img align="center" width="400" src="/Profile/images/full-width.png">
 
-<p align="center" > ECOLIVE </p>
+<h1 align="center" > ECOLIVE </h1>
 
 </p>
 <p align="center">
